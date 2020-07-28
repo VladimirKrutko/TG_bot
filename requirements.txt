@@ -26,7 +26,7 @@ distlib==0.3.1
 dlib==19.20.0
 efficientnet==1.0.0
 filelock==3.0.12
-Flask==0.12.2
+Flask==1.0
 fuzzywuzzy==0.18.0
 gast==0.3.2
 google-auth==1.18.0
